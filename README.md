@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
@@ -9,7 +8,7 @@
 I'm a computer science student who is passionate about writing code, solving problems, and building Websites.
 
 - 🔭 I’m currently a CS student at Institute of Technical Education and Research , S'O'A.
-- 📚 I’m currently learning  web development using HTML , CSS ,JAVASCRIPT , REACT ,BOOTSTRAP.
+- 📚 I’m currently learning  web development using HTML , CSS ,JAVASCRIPT , REACT JS ,BOOTSTRAP and so on.
 - 👯 I’m looking for a software development internship.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -24,9 +23,9 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 📫 How to reach me:
  <p>
-<a href="https://www.linkedin.com/in/akshyat-pattnaik-0976b32b9/">LinkedIn</a>
-<a href="https://www.instagram.com/__axyat__07/">Instagram </a>
-<a href="mailto:akshyatpattnaik07@gmail.com">Gmail</a>
+<a href="https://www.linkedin.com/in/akshyat-pattnaik-0976b32b9/">LinkedIn</a><br>
+<a href="https://www.instagram.com/__axyat__07/">Instagram </a><br>
+<a href="mailto:akshyatpattnaik07@gmail.com">Gmail</a><br>
 </p>
 
 
