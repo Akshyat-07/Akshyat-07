@@ -7,7 +7,7 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, and building Websites.
 
-- 🔭 I’m currently a CS(Information Security) student at Malaviya National Institute of Technology(MNIIT) Jaipur
+- 🔭 I’m currently a CS(Information Security) student at Malaviya National Institute of Technology(MNIT) Jaipur
 - 📚 I’m currently learning Machine Learning, Linux, Computer Network & Security, Cryptography and so on.
 - 👯 I’m looking for a software development internship.
 <h3> 🛠 &nbsp;Tech Stack</h3>
